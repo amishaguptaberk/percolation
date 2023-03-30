@@ -29,5 +29,5 @@ Correctness: 26/26 tests passed
 Memory: 8/8 tests passed
 Timing: 9/9 tests passed
 
-Aggregate score: 96.25% [Correctness: 65%, Memory: 10%, Timing: 25%, Style: 0%]
+Aggregate score: 100.00% [Correctness: 65%, Memory: 10%, Timing: 25%, Style: 0%]
 
