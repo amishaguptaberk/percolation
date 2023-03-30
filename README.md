@@ -20,10 +20,10 @@ The backwash problem can be solved with the aid of a mirror union-find data stru
 
 ## Assessment Summary 
 
-Compilation: PASSED
-Style: PASSED
-Findbugs: No potential bugs found.
-API: PASSED
+- Compilation: PASSED
+- Style: PASSED
+- Findbugs: No potential bugs found.
+- API: PASSED
 
 Correctness: 26/26 tests passed
 Memory: 8/8 tests passed
