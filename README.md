@@ -8,6 +8,8 @@ Given a composite systems comprised of randomly distributed insulating and metal
 
 In this project, I build a model to replicate the famous percolation problem, followed by Monte Carlo simulations to estimate the percolation threshold.
 
+![percolates](https://user-images.githubusercontent.com/112449798/228905488-d9632906-e43f-4078-98bd-67e66f738f2c.png)
+
 
 ## Challenges 
 
