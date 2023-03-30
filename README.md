@@ -14,4 +14,16 @@ I was fascinated by and learned a lot when solving the problem of "backwash". By
 The backwash problem can be solved with the aid of a mirror union-find data structure that differs from the main one because it misses the bottom virtual site. This prevents all the site at the bottom to be virtually connected with each other thus preventing backwash when the system does indeed percolate.
 
 
+## Assessment Summary 
+
+Compilation: PASSED
+Style: PASSED
+Findbugs: No potential bugs found.
+API: PASSED
+
+Correctness: 26/26 tests passed
+Memory: 8/8 tests passed
+Timing: 9/9 tests passed
+
+Aggregate score: 96.25% [Correctness: 65%, Memory: 10%, Timing: 25%, Style: 0%]
 
